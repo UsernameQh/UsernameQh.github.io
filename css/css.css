@@ -1,0 +1,81 @@
+/* CSS Reset */
+*{ margin:0; padding:0; font-family:Microsoft YaHei;}
+.clear{ clear:both;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+a:hover{ text-decoration:underline;}
+li{ list-style-type:none;}
+.ofh{overflow:hidden;}img{ vertical-align:top;}
+.clear{ clear:both;}
+a{ color:#000; font-size:12px; text-decoration:none;}
+a:hover{ color:#000; text-decoration:none;}
+body{ background:#eee;}
+.ml10{ margin-left:10px;}
+.ml15{ margin-left:15px;}
+.ml20{ margin-left:20px;}
+.mt5{ margin-top:5px;}
+.mt10{ margin-top:10px;}
+.mt20{ margin-top:20px;}
+
+
+.head{ width:1024px;height:100px; margin: 0 auto; background:#0d7c9c;}
+.logo{ width:500px; height:80px; margin:10px; float:left;}
+
+.nav{ width:1024px;  height:40px; background:#1071b5; margin:auto;}
+.nav ul{ padding-left:20px;}
+.nav ul li{height:40px;  padding:0px 25px;float:left; text-align:center;}
+.nav ul li a{ color:#eee;font-family:"Microsoft YaHei"; font-size:18px; line-height:40px;}
+.nav ul li a:hover{ color:#fff;}
+.nav ul li:hover{ background:#e3a726;}
+.nav ul li:hover a{ color:#fff;}
+
+
+.main{width:984px; padding:20px; padding-top:20px;height:auto; margin: 0 auto; background:#fff;}
+.main p{color:#525446;font-family:"Microsoft YaHei"; font-size:14px; line-height:22px;}
+.main h2{color:#04773d;font-family:"Microsoft YaHei"; font-size:22px; line-height:32px;}
+
+
+.title{ width:100%; height:30px; background:#1959af;}
+.title h2{ font-size:16px; padding-left:10px; line-height:30px; color:#fff;}
+
+.info{ width:215px; height:auto; float:left;}
+.info_nav{ width:210px;  height:auto; margin:auto;}
+.info_nav ul{}
+.info_nav ul li{width:200px;height:31px;text-align:left;}
+.info_nav ul li a{ color:#555;font-family:"Microsoft YaHei"; font-size:14px; line-height:30px;}
+.info_nav ul li a:hover{ color:#600;}
+ 
+.main_list{ width:960px; height:auto; }
+.main_list li{ width:150px;height:100px; float:left; margin:3px; border:2px solid #fff;}
+.main_list li:hover{border:2px solid #090;}
+.main_list li img{ width:150px; height:100px; }
+
+.tuku_list{ width:960px; height:auto; margin:20px auto; }
+.tuku_list li{
+	width:900px;
+	height:800px;
+	float:left;
+	margin:5px;
+	border:3px solid #fff;
+}
+.tuku_list li:hover{border:3px solid #600;}
+.tuku_list li img{width:300px;height:200px; }
+
+
+
+.left{width:730px; height:auto; min-height:600px; padding-bottom:10px; float:left;float:left;  color:#555;font-family:"Microsoft YaHei"; font-size:16px; line-height:24px;}
+.left p{ color:#555;font-family:"Microsoft YaHei"; font-size:14px; line-height:22px; text-indent:2em;}
+.left p strong{  color:#04773d;}
+
+.right{width:210px; height:auto; min-height:600px; float:left; margin-left:20px; margin-bottom:10px;}
+
+
+
+
+.foot{ width:1024px;height:60px; margin: 0 auto; background:#0f5c92; border-top:10px solid #732210; text-align:center; padding-top:10px;}
+.foot p{color:#fff;font-family:"Microsoft YaHei"; font-size:13px; line-height:24px;}
+
+
+		
